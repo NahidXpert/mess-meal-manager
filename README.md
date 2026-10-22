@@ -102,9 +102,3 @@ Since this project relies purely on standard web technologies without external d
 * **HTML5**: Semantic markup structures.
 * **CSS3**: Custom properties (CSS variables), Grid/Flexbox layouts, keyframe animations, and `@media print` rules.
 * **JavaScript (ES6+)**: Functional logic, dynamic DOM generation, custom item unit conversions, and data persistence via `window.localStorage`.
-
----
-
-## 📄 License
-
-This project is free to use and modify for personal or educational purposes.
